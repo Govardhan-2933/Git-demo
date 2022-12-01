@@ -1,10 +1,10 @@
 {
   "name": "git-demo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Govardhan-2933/Git-demo/issues"
   },
-  "homepage": "https://github.com/Govardhan-2933/Git-demo#readme"
+  "homepage": "https://github.com/Govardhan-2933/Git-demo#readme",
+  "description": ""
 }
